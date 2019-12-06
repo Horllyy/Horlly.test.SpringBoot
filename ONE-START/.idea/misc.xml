@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../NINE-JSP" />
+    <file type="web" url="file://$PROJECT_DIR$/../TEN-forNine" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../TWO-LOG/pom.xml" />
+        <option value="$PROJECT_DIR$/../THREE-LOG-CHANGE/pom.xml" />
+        <option value="$PROJECT_DIR$/../FOUR-WEBJARS/pom.xml" />
+        <option value="$PROJECT_DIR$/../FIVE-THYMLEAF/pom.xml" />
+        <option value="$PROJECT_DIR$/../SIX-FirstWebProject/pom.xml" />
+        <option value="$PROJECT_DIR$/../SEVEN-Qianrushi/pom.xml" />
+        <option value="$PROJECT_DIR$/../EIGHT-Jetty/pom.xml" />
+        <option value="$PROJECT_DIR$/../NINE-JSP/pom.xml" />
+        <option value="$PROJECT_DIR$/../TEN-forNine/pom.xml" />
+        <option value="$PROJECT_DIR$/../11-mybatis-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/../11-mybatis-mysql2/pom.xml" />
+        <option value="$PROJECT_DIR$/../11-mybatis-3/pom.xml" />
+        <option value="$PROJECT_DIR$/../11-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/../12-huancun/pom.xml" />
+        <option value="$PROJECT_DIR$/../13-xiaoxi/pom.xml" />
+        <option value="$PROJECT_DIR$/../../JingSai/test/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

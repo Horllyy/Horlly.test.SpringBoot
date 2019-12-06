@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body bgcolor="#ffc0cb">
+Well done!!
+
+<!--下面<div>这是登陆者的信息</div>中信息可以直接在ides浏览器显示出来 可以用于前端提示-->
+<!--而 th:text="${whoAreYou}" 中参数值要经过解析访问 即编译后通过网址访问才显示出来 可用于后端填空 完美-->
+  <div th:text="${whoAreYou}">
+      这是登陆者的信息
+  </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+这是第四种方法。
+如：
+http://localhost:8080/trial.html
+可访问trail.html
+酷。
+
+或：
+http://localhost:8080/trial/trial2.html
+可访问trail/trial2.html
+酷plus。
+
+ps：别忘记每次修改重启程序。
+
+我的妈 不只是网页 文件和图片也能访问。

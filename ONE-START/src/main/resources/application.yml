@@ -1,0 +1,12 @@
+person1:
+  lastName: 费渡
+  age: 18
+  boss: true
+  birthday: 1887/12/11
+  map: {k1: v1,k2: v2}
+  list:
+    - 苗苗
+    - Linda
+  dog:
+    name: 狗狗
+    age: 2

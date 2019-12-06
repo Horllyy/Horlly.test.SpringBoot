@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NINE-JSP:war">
+    <output-path>$PROJECT_DIR$/../NINE-JSP/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>NINE-JSP</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="nine-jsp-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="NINE-JSP:war exploded" />
+    </root>
+  </artifact>
+</component>

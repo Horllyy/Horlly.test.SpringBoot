@@ -1,0 +1,7 @@
+1.这才是正牌的mybatis+mysql
+  前一个先是template+mysql+hikiXXX的那个默认数据源
+  再修改成了template+mysql+druid
+
+
+2.这里使用的是mapper代理开发dao层，其中分别用了注释法和配置文件法两种实现。
+  我瞅着这里其实只有controller层和dao层，没有中间层service。所以我觉得这个结构也不是强制的，也是很灵活取用的。项目小，就不用这么大框架，体现具体要突出的功能就好。

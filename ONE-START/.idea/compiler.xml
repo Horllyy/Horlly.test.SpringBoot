@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="11-JPA" />
+        <module name="11-mybatis-3" />
+        <module name="11-mybatis-mysql" />
+        <module name="11-mybatis-mysql2" />
+        <module name="12-huancun" />
+        <module name="13-xiaoxi" />
+        <module name="EIGHT-Jetty" />
+        <module name="FIVE-THYMLEAF" />
+        <module name="FOUR-WEBJARS" />
+        <module name="NINE-JSP" />
+        <module name="ONE-START" />
+        <module name="SEVEN-Qianrushi" />
+        <module name="SIX-FirstWebProject" />
+        <module name="TEN-forNine" />
+        <module name="test" />
+        <module name="THREE-LOG-CHANGE" />
+        <module name="TWO-LOG" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="11-JPA" target="1.8" />
+      <module name="11-mybatis-3" target="1.8" />
+      <module name="11-mybatis-mysql" target="1.8" />
+      <module name="11-mybatis-mysql2" target="1.8" />
+      <module name="12-huancun" target="1.8" />
+      <module name="13-xiaoxi" target="1.8" />
+      <module name="EIGHT-Jetty" target="1.8" />
+      <module name="FIVE-THYMLEAF" target="1.8" />
+      <module name="FOUR-WEBJARS" target="1.8" />
+      <module name="NINE-JSP" target="1.8" />
+      <module name="ONE-START" target="1.8" />
+      <module name="SEVEN-Qianrushi" target="1.8" />
+      <module name="SIX-FirstWebProject" target="1.8" />
+      <module name="TEN-forNine" target="1.8" />
+      <module name="test" target="1.5" />
+      <module name="THREE-LOG-CHANGE" target="1.8" />
+      <module name="TWO-LOG" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="11-JPA" options="-parameters" />
+      <module name="11-mybatis-3" options="-parameters" />
+      <module name="11-mybatis-mysql" options="-parameters" />
+      <module name="11-mybatis-mysql2" options="-parameters" />
+      <module name="12-huancun" options="-parameters" />
+      <module name="13-xiaoxi" options="-parameters" />
+      <module name="EIGHT-Jetty" options="-parameters" />
+      <module name="FIVE-THYMLEAF" options="-parameters" />
+      <module name="FOUR-WEBJARS" options="-parameters" />
+      <module name="NINE-JSP" options="-parameters" />
+      <module name="ONE-START" options="-parameters" />
+      <module name="SEVEN-Qianrushi" options="-parameters" />
+      <module name="SIX-FirstWebProject" options="-parameters" />
+      <module name="TEN-forNine" options="-parameters" />
+      <module name="THREE-LOG-CHANGE" options="-parameters" />
+      <module name="TWO-LOG" options="-parameters" />
+    </option>
+  </component>
+</project>
